@@ -132,6 +132,9 @@ p {
 .footer-link:hover{
   color: #EAF6F6;
 }
+.copyright{
+  font-size:12px;
+}
 .btn {
   background: #10c8e0;
   background-image: -webkit-linear-gradient(top, #10c8e0, #2980b9);
